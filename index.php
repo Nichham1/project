@@ -13,7 +13,7 @@ require_once 'includes/header.php';
         <li><a class="btn btn-primary btn-lg" role="button" href="forloop.php"> simple for loop </a></li> <br/>
         <li><a class="btn btn-primary btn-lg" role="button" href="dowhileloop.php"> simple do while</a></li> <br/>
         <li><a class="btn btn-primary btn-lg" role="button" href="whileloop.php"> simple while loop</a></li> <br/>
-        <li><a class="btn btn-primary btn-lg" role="button" href="ifstatements.php"> simple if statement</a></li> <br/>
+        <li><a class="btn btn-primary btn-lg" role="button" href="ifstatement.php"> simple if statement</a></li> <br/>
         <li><a class="btn btn-primary btn-lg" role="button" href="switchstatement.php"> simple switch statement</a></li> <br/>
     </ul>
     </div>
