@@ -1,6 +1,6 @@
 <?php 
 
-$title = 'Index';
+$title = 'Home';
 require_once 'includes/header.php';
 ?>    
  <div class="jumbotron jumbotron-fluid" >
