@@ -6,6 +6,16 @@ require_once 'includes/header.php';
 
  <h1>For Loop</h1>
 
-
+ <?php 
+ // For loop
+ for($count=0; $count<10; $count++){
+    echo'<p> Hello World </p>';
+ }
+ 
+ for($count=0; $count<10; $count++){
+    echo "<p> The count is $count </p>";
+ }
+ 
+ ?>
 
 <?php require_once 'includes/footer.php'; ?>
