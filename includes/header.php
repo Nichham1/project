@@ -28,6 +28,7 @@
       <a class="nav-link" href="whileloop.php">While Loop</a>
       <a class="nav-link" href="ifstatement.php">If Statement</a>
       <a class="nav-link" href="switchstatement.php">Switch Statement</a>
+      <a class="nav-link" href="stringmanipulation.php">String manupulation</a>
     </div>
     <div class="navbar-nav ml-auto">
     <a class="nav-link " href="#">Login<span class="sr-only">(current)</span></a>
