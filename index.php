@@ -26,15 +26,14 @@ require_once 'includes/header.php';
   <!--- Basic HTML---->
   <H1>Hello World - PHP primer</H1>
   <br />
+  
   <?php
   //Printing to  HTML using echo 
   echo 'Hello PHP';
   echo '<br/>';
   echo 'second line';
   echo '<br/>';
-  ?>
-
-  <?php
+ 
   //declear variable 
   $name = 'John Doe';
   $age = 50;
