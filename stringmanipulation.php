@@ -29,7 +29,12 @@ echo 'Get position of a String: '.strpos($name,'h').'<br/>';
 
 echo 'Find Character "A": '.strchr($name,'a').'<br/>';
 
+echo 'whitout Trim: '. "A". "BCD"."E".'<br/>';
+echo 'Trim Space on both sides : '. "A". trim("BCD")."E".'<br/>';
+echo 'Trim Space on both sides : '. "A". ltrim("BCD")."E".'<br/>';
+echo 'Trim Space on both sides : '. "A". rtrim("BCD")."E".'<br/>';
 
+echo 'Replace String with another: '. str_replace("in", "out",$phrase2).'<br/>';
 ?>
 
 
